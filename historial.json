@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "producto": "El paquete",
+            "cantidad": 1,
+            "precio": 900.0,
+            "subtotal": 900.0
+        }
+    ],
+    [
+        {
+            "producto": "Test",
+            "cantidad": 1,
+            "precio": 500.0,
+            "subtotal": 500.0
+        }
+    ]
+]
